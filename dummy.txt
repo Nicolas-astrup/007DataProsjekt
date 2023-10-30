@@ -1,1 +1,4 @@
 Dette er en duum tekst. kan den endres på? 
+Nå er jeg i en annen Branch
+Hei hå 
+Kaper er ost 
